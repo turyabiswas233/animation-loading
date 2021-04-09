@@ -1,15 +1,15 @@
 *{
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
-div#sec1{
+#sec1{
     background: black;
     height: 100vh;
     width: 100vw;
     position: fixed;
 }
 
-div#sec2 {
+#sec2 {
     width: 110pt;
     height: 110pt;
     position: absolute;
@@ -17,10 +17,10 @@ div#sec2 {
     left:44vw;
     border-radius: 50%;
     z-index: 0;
-    animation: bg-col2 1500ms infinite linear ;
+    animation: bg-col2 1500ms infinite linear;
 }
 
-div#sec3 {
+#sec3 {
     width: 110pt;
     height: 110pt;
     position: absolute;
@@ -28,10 +28,10 @@ div#sec3 {
     left:19vw;
     border-radius: 50%;
     z-index: 0;
-    animation: bg-col3 1500ms infinite linear ;
+    animation: bg-col3 1500ms infinite linear;
 }
 
-div#sec4 {
+#sec4 {
     width: 110pt;
     height: 110pt;
     position: absolute;
@@ -39,7 +39,7 @@ div#sec4 {
     left:69vw;
     border-radius: 50%;
     z-index: 0;
-    animation: bg-col4 1500ms infinite linear ;
+    animation: bg-col4 1500ms infinite linear;
 }
 
 
