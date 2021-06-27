@@ -1,2 +1,2 @@
 # animation-loading
-<a href=" https://turyabiswas233.github.io/animation-loading/?">demo</a>
+<a href=" https://turyabiswas233.github.io/animation-loading/">demo</a>
